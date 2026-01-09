@@ -1,6 +1,5 @@
-# Rich-but-Dumb-Simulator
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://thethaiger.com/th/wp-content/uploads/2025/12/%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%A1-%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B8%B4%E0%B8%A7-%E0%B8%A3%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B4%E0%B8%95-%E0%B8%AA%E0%B8%81%E0%B8%B4%E0%B8%99-2.jpg)
 
 # วิชาเขียนโปรแกรม
 สำหรับนักศึกษา ป.ตรี สาขาวิชาเทคโนโลยีสารสนเทศและการสื่อสาร
@@ -15,5 +14,3 @@ Question 2
 Answer 2
 
 # Tech Stack
-
-
