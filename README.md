@@ -1,1 +1,2 @@
 # Rich-but-Dumb-Simulator
+# วิชาเขียนโปรแกรมเชิงวัตถุ
